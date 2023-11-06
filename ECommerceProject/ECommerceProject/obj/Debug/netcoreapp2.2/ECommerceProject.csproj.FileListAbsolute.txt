@@ -1,0 +1,200 @@
+F:\Study\Final_Project\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\ECommerceProject.csproj.CoreCompileInputs.cache
+F:\Study\Final_Project\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\ECommerceProject.RazorAssemblyInfo.cache
+F:\Study\Final_Project\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\ECommerceProject.RazorAssemblyInfo.cs
+F:\Study\Final_Project\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\ECommerceProject.AssemblyInfoInputs.cache
+F:\Study\Final_Project\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\ECommerceProject.AssemblyInfo.cs
+F:\Study\Final_Project\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\ECommerceProject.TagHelpers.input.cache
+F:\Study\Final_Project\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\ECommerceProject.TagHelpers.output.cache
+F:\Study\Final_Project\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\ECommerceProject.RazorCoreGenerate.cache
+F:\Study\Final_Project\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\Home\Cart.g.cshtml.cs
+F:\Study\Final_Project\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\Home\Details.g.cshtml.cs
+F:\Study\Final_Project\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+F:\Study\Final_Project\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+F:\Study\Final_Project\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\Order\Checkout.g.cshtml.cs
+F:\Study\Final_Project\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\ProductTypes\Create.g.cshtml.cs
+F:\Study\Final_Project\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\ProductTypes\Delete.g.cshtml.cs
+F:\Study\Final_Project\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\ProductTypes\Details.g.cshtml.cs
+F:\Study\Final_Project\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\ProductTypes\Edit.g.cshtml.cs
+F:\Study\Final_Project\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\ProductTypes\Index.g.cshtml.cs
+F:\Study\Final_Project\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\Product\Create.g.cshtml.cs
+F:\Study\Final_Project\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\Product\Delete.g.cshtml.cs
+F:\Study\Final_Project\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\Product\Details.g.cshtml.cs
+F:\Study\Final_Project\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\Product\Edit.g.cshtml.cs
+F:\Study\Final_Project\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\Product\Index.g.cshtml.cs
+F:\Study\Final_Project\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+F:\Study\Final_Project\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ButtonPartial.g.cshtml.cs
+F:\Study\Final_Project\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+F:\Study\Final_Project\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+F:\Study\Final_Project\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+F:\Study\Final_Project\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+F:\Study\Final_Project\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+F:\Study\Final_Project\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\ECommerceProject.RazorTargetAssemblyInfo.cache
+F:\Study\Final_Project\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\ECommerceProject.RazorTargetAssemblyInfo.cs
+F:\Study\Final_Project\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\ECommerceProject.dll
+F:\Study\Final_Project\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\ECommerceProject.pdb
+F:\Study\Final_Project\ECommerceProject\ECommerceProject\bin\Debug\netcoreapp2.2\ECommerceProject.deps.json
+F:\Study\Final_Project\ECommerceProject\ECommerceProject\bin\Debug\netcoreapp2.2\ECommerceProject.runtimeconfig.json
+F:\Study\Final_Project\ECommerceProject\ECommerceProject\bin\Debug\netcoreapp2.2\ECommerceProject.runtimeconfig.dev.json
+F:\Study\Final_Project\ECommerceProject\ECommerceProject\bin\Debug\netcoreapp2.2\ECommerceProject.dll
+F:\Study\Final_Project\ECommerceProject\ECommerceProject\bin\Debug\netcoreapp2.2\ECommerceProject.pdb
+F:\Study\Final_Project\ECommerceProject\ECommerceProject\bin\Debug\netcoreapp2.2\ECommerceProject.Views.dll
+F:\Study\Final_Project\ECommerceProject\ECommerceProject\bin\Debug\netcoreapp2.2\ECommerceProject.Views.pdb
+F:\Study\Final_Project\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\ECommerceProject.Views.pdb
+F:\Study\Final_Project\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\ECommerceProject.csproj.CopyComplete
+F:\Study\Final_Project\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\ECommerceProject.csprojAssemblyReference.cache
+F:\Study\OutPut\Work2\ECommerceProject\ECommerceProject\bin\Debug\netcoreapp2.2\ECommerceProject.deps.json
+F:\Study\OutPut\Work2\ECommerceProject\ECommerceProject\bin\Debug\netcoreapp2.2\ECommerceProject.runtimeconfig.json
+F:\Study\OutPut\Work2\ECommerceProject\ECommerceProject\bin\Debug\netcoreapp2.2\ECommerceProject.runtimeconfig.dev.json
+F:\Study\OutPut\Work2\ECommerceProject\ECommerceProject\bin\Debug\netcoreapp2.2\ECommerceProject.dll
+F:\Study\OutPut\Work2\ECommerceProject\ECommerceProject\bin\Debug\netcoreapp2.2\ECommerceProject.pdb
+F:\Study\OutPut\Work2\ECommerceProject\ECommerceProject\bin\Debug\netcoreapp2.2\ECommerceProject.Views.dll
+F:\Study\OutPut\Work2\ECommerceProject\ECommerceProject\bin\Debug\netcoreapp2.2\ECommerceProject.Views.pdb
+F:\Study\OutPut\Work2\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\ECommerceProject.csprojAssemblyReference.cache
+F:\Study\OutPut\Work2\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\ECommerceProject.csproj.CoreCompileInputs.cache
+F:\Study\OutPut\Work2\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\ECommerceProject.RazorAssemblyInfo.cache
+F:\Study\OutPut\Work2\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\ECommerceProject.RazorAssemblyInfo.cs
+F:\Study\OutPut\Work2\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\ECommerceProject.AssemblyInfoInputs.cache
+F:\Study\OutPut\Work2\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\ECommerceProject.AssemblyInfo.cs
+F:\Study\OutPut\Work2\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\ECommerceProject.TagHelpers.input.cache
+F:\Study\OutPut\Work2\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\ECommerceProject.TagHelpers.output.cache
+F:\Study\OutPut\Work2\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\ECommerceProject.RazorCoreGenerate.cache
+F:\Study\OutPut\Work2\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\Home\Cart.g.cshtml.cs
+F:\Study\OutPut\Work2\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\Home\Details.g.cshtml.cs
+F:\Study\OutPut\Work2\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+F:\Study\OutPut\Work2\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+F:\Study\OutPut\Work2\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\Order\Checkout.g.cshtml.cs
+F:\Study\OutPut\Work2\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\ProductTypes\Create.g.cshtml.cs
+F:\Study\OutPut\Work2\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\ProductTypes\Delete.g.cshtml.cs
+F:\Study\OutPut\Work2\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\ProductTypes\Details.g.cshtml.cs
+F:\Study\OutPut\Work2\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\ProductTypes\Edit.g.cshtml.cs
+F:\Study\OutPut\Work2\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\ProductTypes\Index.g.cshtml.cs
+F:\Study\OutPut\Work2\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\Product\Create.g.cshtml.cs
+F:\Study\OutPut\Work2\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\Product\Delete.g.cshtml.cs
+F:\Study\OutPut\Work2\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\Product\Details.g.cshtml.cs
+F:\Study\OutPut\Work2\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\Product\Edit.g.cshtml.cs
+F:\Study\OutPut\Work2\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\Product\Index.g.cshtml.cs
+F:\Study\OutPut\Work2\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+F:\Study\OutPut\Work2\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ButtonPartial.g.cshtml.cs
+F:\Study\OutPut\Work2\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+F:\Study\OutPut\Work2\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+F:\Study\OutPut\Work2\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+F:\Study\OutPut\Work2\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+F:\Study\OutPut\Work2\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+F:\Study\OutPut\Work2\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\ECommerceProject.RazorTargetAssemblyInfo.cache
+F:\Study\OutPut\Work2\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\ECommerceProject.RazorTargetAssemblyInfo.cs
+F:\Study\OutPut\Work2\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\ECommerceProject.Views.pdb
+F:\Study\OutPut\Work2\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\ECommerceProject.dll
+F:\Study\OutPut\Work2\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\ECommerceProject.pdb
+F:\Study\OutPut\Work2\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\ECommerceProject.csproj.CopyComplete
+G:\Asp.Net project\ECommerce MVC\ECommerce MVC\ECommerceProject\ECommerceProject\bin\Debug\netcoreapp2.2\ECommerceProject.deps.json
+G:\Asp.Net project\ECommerce MVC\ECommerce MVC\ECommerceProject\ECommerceProject\bin\Debug\netcoreapp2.2\ECommerceProject.runtimeconfig.json
+G:\Asp.Net project\ECommerce MVC\ECommerce MVC\ECommerceProject\ECommerceProject\bin\Debug\netcoreapp2.2\ECommerceProject.runtimeconfig.dev.json
+G:\Asp.Net project\ECommerce MVC\ECommerce MVC\ECommerceProject\ECommerceProject\bin\Debug\netcoreapp2.2\ECommerceProject.dll
+G:\Asp.Net project\ECommerce MVC\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\ECommerceProject.csproj.CoreCompileInputs.cache
+G:\Asp.Net project\ECommerce MVC\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\ECommerceProject.AssemblyInfoInputs.cache
+G:\Asp.Net project\ECommerce MVC\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\ECommerceProject.AssemblyInfo.cs
+G:\Asp.Net project\ECommerce MVC\ECommerce MVC\ECommerceProject\ECommerceProject\bin\Debug\netcoreapp2.2\ECommerceProject.pdb
+G:\Asp.Net project\ECommerce MVC\ECommerce MVC\ECommerceProject\ECommerceProject\bin\Debug\netcoreapp2.2\ECommerceProject.Views.dll
+G:\Asp.Net project\ECommerce MVC\ECommerce MVC\ECommerceProject\ECommerceProject\bin\Debug\netcoreapp2.2\ECommerceProject.Views.pdb
+G:\Asp.Net project\ECommerce MVC\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\ECommerceProject.csprojAssemblyReference.cache
+G:\Asp.Net project\ECommerce MVC\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\ECommerceProject.RazorAssemblyInfo.cache
+G:\Asp.Net project\ECommerce MVC\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\ECommerceProject.RazorAssemblyInfo.cs
+G:\Asp.Net project\ECommerce MVC\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\ECommerceProject.TagHelpers.input.cache
+G:\Asp.Net project\ECommerce MVC\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\ECommerceProject.TagHelpers.output.cache
+G:\Asp.Net project\ECommerce MVC\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\ECommerceProject.RazorCoreGenerate.cache
+G:\Asp.Net project\ECommerce MVC\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+G:\Asp.Net project\ECommerce MVC\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.g.cshtml.cs
+G:\Asp.Net project\ECommerce MVC\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\Home\Cart.g.cshtml.cs
+G:\Asp.Net project\ECommerce MVC\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\Home\Details.g.cshtml.cs
+G:\Asp.Net project\ECommerce MVC\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+G:\Asp.Net project\ECommerce MVC\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+G:\Asp.Net project\ECommerce MVC\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\Order\Checkout.g.cshtml.cs
+G:\Asp.Net project\ECommerce MVC\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\Order\MyOrder.g.cshtml.cs
+G:\Asp.Net project\ECommerce MVC\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\Order\OrderDetail.g.cshtml.cs
+G:\Asp.Net project\ECommerce MVC\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\Order\ViewOrder.g.cshtml.cs
+G:\Asp.Net project\ECommerce MVC\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\ProductTypes\Create.g.cshtml.cs
+G:\Asp.Net project\ECommerce MVC\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\ProductTypes\Delete.g.cshtml.cs
+G:\Asp.Net project\ECommerce MVC\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\ProductTypes\Details.g.cshtml.cs
+G:\Asp.Net project\ECommerce MVC\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\ProductTypes\Edit.g.cshtml.cs
+G:\Asp.Net project\ECommerce MVC\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\ProductTypes\Index.g.cshtml.cs
+G:\Asp.Net project\ECommerce MVC\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\Product\Create.g.cshtml.cs
+G:\Asp.Net project\ECommerce MVC\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\Product\Delete.g.cshtml.cs
+G:\Asp.Net project\ECommerce MVC\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\Product\Details.g.cshtml.cs
+G:\Asp.Net project\ECommerce MVC\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\Product\Edit.g.cshtml.cs
+G:\Asp.Net project\ECommerce MVC\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\Product\Index.g.cshtml.cs
+G:\Asp.Net project\ECommerce MVC\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\Role\Create.g.cshtml.cs
+G:\Asp.Net project\ECommerce MVC\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\Role\Index.g.cshtml.cs
+G:\Asp.Net project\ECommerce MVC\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+G:\Asp.Net project\ECommerce MVC\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ButtonPartial.g.cshtml.cs
+G:\Asp.Net project\ECommerce MVC\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+G:\Asp.Net project\ECommerce MVC\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+G:\Asp.Net project\ECommerce MVC\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+G:\Asp.Net project\ECommerce MVC\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+G:\Asp.Net project\ECommerce MVC\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+G:\Asp.Net project\ECommerce MVC\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\ECommerceProject.RazorTargetAssemblyInfo.cache
+G:\Asp.Net project\ECommerce MVC\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\ECommerceProject.RazorTargetAssemblyInfo.cs
+G:\Asp.Net project\ECommerce MVC\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\ECommerceProject.Views.pdb
+G:\Asp.Net project\ECommerce MVC\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\ECommerceProject.dll
+G:\Asp.Net project\ECommerce MVC\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\ECommerceProject.pdb
+G:\Asp.Net project\ECommerce MVC\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\ECommerceProject.csproj.CopyComplete
+G:\Asp.Net project\ECommerce MVC\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\Role\EditRole.g.cshtml.cs
+G:\Asp.Net project\ECommerce MVC\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\Role\EditUsersInRole.g.cshtml.cs
+G:\Asp.Net project\ECommerce MVC\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\Order\GetOrderDetail.g.cshtml.cs
+C:\Users\MOULI\Downloads\Project 3-2(16cse047)\ECommerce MVC\ECommerceProject\ECommerceProject\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\MOULI\Downloads\Project 3-2(16cse047)\ECommerce MVC\ECommerceProject\ECommerceProject\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\MOULI\Downloads\Project 3-2(16cse047)\ECommerce MVC\ECommerceProject\ECommerceProject\bin\Debug\netcoreapp2.2\ECommerceProject.deps.json
+C:\Users\MOULI\Downloads\Project 3-2(16cse047)\ECommerce MVC\ECommerceProject\ECommerceProject\bin\Debug\netcoreapp2.2\ECommerceProject.runtimeconfig.json
+C:\Users\MOULI\Downloads\Project 3-2(16cse047)\ECommerce MVC\ECommerceProject\ECommerceProject\bin\Debug\netcoreapp2.2\ECommerceProject.runtimeconfig.dev.json
+C:\Users\MOULI\Downloads\Project 3-2(16cse047)\ECommerce MVC\ECommerceProject\ECommerceProject\bin\Debug\netcoreapp2.2\ECommerceProject.dll
+C:\Users\MOULI\Downloads\Project 3-2(16cse047)\ECommerce MVC\ECommerceProject\ECommerceProject\bin\Debug\netcoreapp2.2\ECommerceProject.pdb
+C:\Users\MOULI\Downloads\Project 3-2(16cse047)\ECommerce MVC\ECommerceProject\ECommerceProject\bin\Debug\netcoreapp2.2\ECommerceProject.Views.dll
+C:\Users\MOULI\Downloads\Project 3-2(16cse047)\ECommerce MVC\ECommerceProject\ECommerceProject\bin\Debug\netcoreapp2.2\ECommerceProject.Views.pdb
+C:\Users\MOULI\Downloads\Project 3-2(16cse047)\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\ECommerceProject.csproj.AssemblyReference.cache
+C:\Users\MOULI\Downloads\Project 3-2(16cse047)\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\ECommerceProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MOULI\Downloads\Project 3-2(16cse047)\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\ECommerceProject.AssemblyInfoInputs.cache
+C:\Users\MOULI\Downloads\Project 3-2(16cse047)\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\ECommerceProject.AssemblyInfo.cs
+C:\Users\MOULI\Downloads\Project 3-2(16cse047)\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\ECommerceProject.csproj.CoreCompileInputs.cache
+C:\Users\MOULI\Downloads\Project 3-2(16cse047)\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\ECommerceProject.RazorAssemblyInfo.cache
+C:\Users\MOULI\Downloads\Project 3-2(16cse047)\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\ECommerceProject.RazorAssemblyInfo.cs
+C:\Users\MOULI\Downloads\Project 3-2(16cse047)\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\ECommerceProject.TagHelpers.input.cache
+C:\Users\MOULI\Downloads\Project 3-2(16cse047)\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\ECommerceProject.TagHelpers.output.cache
+C:\Users\MOULI\Downloads\Project 3-2(16cse047)\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\ECommerceProject.RazorCoreGenerate.cache
+C:\Users\MOULI\Downloads\Project 3-2(16cse047)\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\MOULI\Downloads\Project 3-2(16cse047)\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\MOULI\Downloads\Project 3-2(16cse047)\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\Home\Cart.cshtml.g.cs
+C:\Users\MOULI\Downloads\Project 3-2(16cse047)\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\MOULI\Downloads\Project 3-2(16cse047)\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\MOULI\Downloads\Project 3-2(16cse047)\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\MOULI\Downloads\Project 3-2(16cse047)\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\Order\Checkout.cshtml.g.cs
+C:\Users\MOULI\Downloads\Project 3-2(16cse047)\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\Order\GetOrderDetail.cshtml.g.cs
+C:\Users\MOULI\Downloads\Project 3-2(16cse047)\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\Order\MyOrder.cshtml.g.cs
+C:\Users\MOULI\Downloads\Project 3-2(16cse047)\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\Order\OrderDetail.cshtml.g.cs
+C:\Users\MOULI\Downloads\Project 3-2(16cse047)\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\Order\ViewOrder.cshtml.g.cs
+C:\Users\MOULI\Downloads\Project 3-2(16cse047)\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\ProductTypes\Create.cshtml.g.cs
+C:\Users\MOULI\Downloads\Project 3-2(16cse047)\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\ProductTypes\Delete.cshtml.g.cs
+C:\Users\MOULI\Downloads\Project 3-2(16cse047)\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\ProductTypes\Details.cshtml.g.cs
+C:\Users\MOULI\Downloads\Project 3-2(16cse047)\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\ProductTypes\Edit.cshtml.g.cs
+C:\Users\MOULI\Downloads\Project 3-2(16cse047)\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\ProductTypes\Index.cshtml.g.cs
+C:\Users\MOULI\Downloads\Project 3-2(16cse047)\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\Product\Create.cshtml.g.cs
+C:\Users\MOULI\Downloads\Project 3-2(16cse047)\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\Product\Delete.cshtml.g.cs
+C:\Users\MOULI\Downloads\Project 3-2(16cse047)\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\Product\Details.cshtml.g.cs
+C:\Users\MOULI\Downloads\Project 3-2(16cse047)\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\Product\Edit.cshtml.g.cs
+C:\Users\MOULI\Downloads\Project 3-2(16cse047)\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\MOULI\Downloads\Project 3-2(16cse047)\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\Role\Create.cshtml.g.cs
+C:\Users\MOULI\Downloads\Project 3-2(16cse047)\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\Role\EditRole.cshtml.g.cs
+C:\Users\MOULI\Downloads\Project 3-2(16cse047)\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\Role\EditUsersInRole.cshtml.g.cs
+C:\Users\MOULI\Downloads\Project 3-2(16cse047)\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\Role\Index.cshtml.g.cs
+C:\Users\MOULI\Downloads\Project 3-2(16cse047)\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\MOULI\Downloads\Project 3-2(16cse047)\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ButtonPartial.cshtml.g.cs
+C:\Users\MOULI\Downloads\Project 3-2(16cse047)\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\MOULI\Downloads\Project 3-2(16cse047)\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\MOULI\Downloads\Project 3-2(16cse047)\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\MOULI\Downloads\Project 3-2(16cse047)\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\MOULI\Downloads\Project 3-2(16cse047)\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\MOULI\Downloads\Project 3-2(16cse047)\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\ECommerceProject.RazorTargetAssemblyInfo.cache
+C:\Users\MOULI\Downloads\Project 3-2(16cse047)\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\ECommerceProject.RazorTargetAssemblyInfo.cs
+C:\Users\MOULI\Downloads\Project 3-2(16cse047)\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\ECommerceProject.Views.pdb
+C:\Users\MOULI\Downloads\Project 3-2(16cse047)\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\ECommerceProject.dll
+C:\Users\MOULI\Downloads\Project 3-2(16cse047)\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\ECommerceProject.pdb
+C:\Users\MOULI\Downloads\Project 3-2(16cse047)\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\ECommerceProject.genruntimeconfig.cache
+C:\Users\MOULI\Downloads\Project 3-2(16cse047)\ECommerce MVC\ECommerceProject\ECommerceProject\obj\Debug\netcoreapp2.2\ECommerceProject.csproj.CopyComplete

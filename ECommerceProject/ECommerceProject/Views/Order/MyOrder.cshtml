@@ -1,0 +1,47 @@
+﻿@using ECommerceProject.Models
+@model IEnumerable<Order>
+@inject SignInManager<ApplicationUser> signInManager;
+@using Microsoft.AspNetCore.Identity
+@{
+    ViewData["Title"] = "MyOrder";
+}
+
+<h1>My Order</h1>
+
+<form>
+    <div class="col-6">
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>Order No</th>
+                    <th>Name</th>
+                    <th>Phone No</th>
+                    <th>Address</th>
+                    <th>Order Date</th>
+                    <th>Order Deatils</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                <tr>
+                    <td>
+                        @item.OrderNo
+                    </td>
+                    <td>@item.Name</td>
+                    <td>@item.PhoneNo</td>
+                    <td>@item.Address</td>
+                    <td>@item.OrderDate</td>
+                    <td>
+                        <a asp-action="GetOrderDetail" class="btn btn-info" asp-route-id="@item.Id">Details</a>
+                    </td>
+                </tr>
+                }
+            </tbody>
+        </table>
+        <div class="form-group text-right">
+            <a asp-action="index" asp-controller="home">Back to Home</a>
+        </div>
+    </div>
+</form>
+

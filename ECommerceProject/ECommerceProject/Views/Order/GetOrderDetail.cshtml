@@ -1,0 +1,36 @@
+﻿@using ECommerceProject.Models;
+@model IEnumerable<Products>
+
+@{
+    ViewData["Title"] = "OrderItem";
+}
+
+<form>
+    <div class="col-6">
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>Image</th>
+                    <th>Name</th>
+                    <th>Price</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            <img src="~/@item.Image" height="100px" width="150px" />
+                        </td>
+                        <td>@item.Name</td>
+                        <td>@item.Price</td>
+                    </tr>
+                }
+            </tbody>
+
+        </table>
+        <div class="text-right">
+            <h3>Total Price : @Model.Sum(c => c.Price)</h3>
+        </div>
+    </div>
+</form>
